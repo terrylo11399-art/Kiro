@@ -1,0 +1,8 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "A simple Snake game",
+  "scripts": {
+    "build": "echo 'No build needed for static site'"
+  }
+}
