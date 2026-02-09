@@ -108,7 +108,7 @@ function gameOver() {
     ctx.fillRect(0, 0, canvas.width, canvas.height);
     
     ctx.fillStyle = '#fff';
-    ctx.font = '32px Arial';
+    ctx.font = '34px Arial';
     ctx.textAlign = 'center';
     ctx.fillText('Game Over!', canvas.width / 2, canvas.height / 2 - 20);
     ctx.font = '20px Arial';
